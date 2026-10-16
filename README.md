@@ -1,5 +1,4 @@
 # Azure-Security Posture Assessment with Microsoft Defender for Cloud
-Microsoft Defender for Cloud security posture assessment lab. It documents what you actually completed, the results you observed, and the remaining recommendations without claiming that paid Defender protections were enabled.
 
 This project focuses on assessing the security posture of an Azure subscription using Microsoft Defender for Cloud and Azure CLI. The objective was to identify security configuration gaps, review security recommendations, verify network security controls, and inspect security contact and notification settings.
 
